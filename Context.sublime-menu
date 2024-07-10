@@ -1,7 +1,7 @@
 [
 	{
 		"id": "gh_tools",
-		"caption": "GitHub Tools",
+		"caption": "GitHubTools",
 		"children": [
 			{
 				"caption": "Open File",

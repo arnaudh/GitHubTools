@@ -86,7 +86,7 @@ class GitRepo(object):
         return not code
 
     def parse_remote(self, remote_alias, remote):
-        settings = sublime.load_settings("GitHub Tools.sublime-settings")
+        settings = sublime.load_settings("GitHubTools.sublime-settings")
         hosts = settings.get('github_hostnames')
         for hostname in hosts:
             if remote.startswith('git@' + hostname):
@@ -210,7 +210,7 @@ def strip_suffix(txt, suffix):
 
 
 def log(*lines):
-    settings = sublime.load_settings("GitHub Tools.sublime-settings")
+    settings = sublime.load_settings("GitHubTools.sublime-settings")
     if not settings.get('debug_mode'):
         return
 

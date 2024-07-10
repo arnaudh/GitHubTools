@@ -1,11 +1,11 @@
 [
   {
-    "caption": "Preferences: GitHub Tools",
+    "caption": "Preferences: GitHubTools",
     "command": "edit_settings",
     "args":
     {
-      "base_file": "${packages}/GitHub Tools/GitHub Tools.sublime-settings",
-      "default": "// GitHub Tools Settings - User\n{\n\t$0\n}\n"
+      "base_file": "${packages}/GitHubTools/GitHubTools.sublime-settings",
+      "default": "// GitHubTools Settings - User\n{\n\t$0\n}\n"
     }
   },
   {
