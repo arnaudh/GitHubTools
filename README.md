@@ -1,6 +1,6 @@
 # GitHub Tools for Sublime Text
 
-A set of handy tools for using Sublime Text editor with [GitHub](http://github.com). 
+A set of handy tools for using [Sublime Text](https://www.sublimetext.com) with [GitHub](http://github.com). 
 
 ## Usage
 
