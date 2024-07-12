@@ -6,13 +6,13 @@ A set of handy tools for using [Sublime Text](https://www.sublimetext.com) with 
 
 Open any directory of your Git working copy in Sublime Text. From the command palette you now have access to, for instance:
 
-* `Github: Open File` to open currently edited file on Github.
-* `Github: Blame` to open blame for currently edited file on Github.
-* `Github: History` to open commit history for currently edited file on Github.
-* `Github: Copy Link To File` to save a Github link to a selected code fragment in the system clipboard.
-* `Github: Repository` to open repository page on Github.
-* `Github: Issues` to open repository issues page on Github.
-* `Github: Pull Requests` to open repository pull requests page on Github.
+* `GitHub: Open File` to open currently edited file on GitHub.
+* `GitHub: Blame` to open blame for currently edited file on GitHub.
+* `GitHub: History` to open commit history for currently edited file on GitHub.
+* `GitHub: Copy Link To File` to save a GitHub link to a selected code fragment in the system clipboard.
+* `GitHub: Repository` to open repository page on GitHub.
+* `GitHub: Issues` to open repository issues page on GitHub.
+* `GitHub: Pull Requests` to open repository pull requests page on GitHub.
 
 Some commands also allow you to link to the selected lines. 
 

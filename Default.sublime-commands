@@ -9,47 +9,47 @@
     }
   },
   {
-    "caption": "Github: Open File",
+    "caption": "GitHub: Open File",
     "command": "github_open"
   },
   {
-    "caption": "Github: Open File at This Line",
+    "caption": "GitHub: Open File at This Line",
     "command": "github_open_line"
   },
   {
-    "caption": "Github: Blame",
+    "caption": "GitHub: Blame",
     "command": "github_blame"
   },
   {
-    "caption": "Github: Blame at This Line",
+    "caption": "GitHub: Blame at This Line",
     "command": "github_blame_line"
   },
   {
-    "caption": "Github: Copy Link to File",
+    "caption": "GitHub: Copy Link to File",
     "command": "github_copy_link"
   },
   {
-    "caption": "Github: Copy Link to File at This Line",
+    "caption": "GitHub: Copy Link to File at This Line",
     "command": "github_copy_link_line"
   },
   {
-    "caption": "Github: Repository",
+    "caption": "GitHub: Repository",
     "command": "github_repository"
   },
   {
-    "caption": "Github: Issues",
+    "caption": "GitHub: Issues",
     "command": "github_issues"
   },
   {
-    "caption": "Github: Pull Requests",
+    "caption": "GitHub: Pull Requests",
     "command": "github_pulls"
   },
   {
-    "caption": "Github: Create Pull Request",
+    "caption": "GitHub: Create Pull Request",
     "command": "github_create_pr"
   },
   {
-    "caption": "Github: File History",
+    "caption": "GitHub: File History",
     "command": "github_file_history"
   }
 ]
