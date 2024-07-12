@@ -3,7 +3,8 @@
 		"id": "tools",
 		"children": [
 			{
-				"caption": "GitHubTools",
+				"id": "githubtools",
+				"caption": "GitHub",
 				"children": [
 					{
 						"caption": "Open File",
