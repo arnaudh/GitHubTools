@@ -25,3 +25,7 @@ To disable the context menu:
 - create a new file called `Context.sublime-menu` in `Packages/GitHubTools/` (go there via "Browse Packages" in the settings menu)
 - add `[]` as the content of this new file
 - this effectively replaces the context menu items for this package with "nothing"
+
+## Credits
+
+This package originally by [@temochka](https://github.com/temochka) at [@temochka/sublime-text-2-github-tools](https://github.com/temochka/sublime-text-2-github-tools). 
