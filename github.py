@@ -137,10 +137,10 @@ class GitRepo(object):
         f = lambda l: tuple(re.split("\s", l.replace('refs/heads/', ''))[::-1])
         return dict(map(f, heads.splitlines()))
 
-    def browse_file_url(self, filename, linenumber=False):
+    def browse_file_url(self, filename, linenumber=False, revision=False):
         return git_browse_file_url(self.info['web_uri'],
                                    self.path_from_rootdir(filename),
-                                   self.branch,
+                                   self.revision if revision else self.branch,
                                    linenumber)
 
     def file_history_url(self, filename):

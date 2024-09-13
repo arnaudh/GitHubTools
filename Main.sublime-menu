@@ -15,6 +15,10 @@
 						"command": "github_open_line"
 					},
 					{
+						"caption": "GitHub: Open File at This Line This Revision",
+						"command": "github_open_line_revision"
+					},
+					{
 						"caption": "Blame",
 						"command": "github_blame"
 					},
